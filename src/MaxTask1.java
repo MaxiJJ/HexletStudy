@@ -8,6 +8,4 @@ public class MaxTask1 {
         double P = (2 * pi * radius);
         System.out.print("Square = " + S + " Perimeter = " + Math.rint(100.0 * P)/100.0);
     }
-    Scanner data = new Scanner(System.in);
-    int radius = data.nextInt();
 }
